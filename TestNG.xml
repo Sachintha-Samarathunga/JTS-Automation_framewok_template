@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Login suite using TestNG Data Provider">
+    <listeners>
+
+    </listeners>
+    <test name="DataProviderTest">
+
+        <classes>
+            <class name="Login.LoginPositive"/>
+        </classes>
+    </test>
+</suite>
