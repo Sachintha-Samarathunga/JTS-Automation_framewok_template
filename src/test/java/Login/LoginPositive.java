@@ -53,7 +53,7 @@ public class LoginPositive extends BaseTest {
     @AfterSuite
     public void finalizeReport() {
         ExtentReportManager.flushReport(); // Ensures the report is generated
-        ExtentReportManager.openReport();  // Opens the report automatically
+        ExtentReportManager.openReport();  // Opens the report automaticallyyy
     }
 
 }
