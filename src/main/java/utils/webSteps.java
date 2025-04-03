@@ -69,5 +69,5 @@ public class webSteps {
         Thread.sleep(2000);
     }
 
-    // Place your methods here
+    // Place your common methods here
 }
