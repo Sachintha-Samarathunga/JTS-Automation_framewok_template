@@ -39,4 +39,4 @@ Developed and maintained by:
 - The report automatically opens after each test run.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the http://www.apache.org/licenses/ file for details.
