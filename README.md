@@ -1,5 +1,7 @@
 # SSW Automation Framework
 
+![Image](https://github.com/user-attachments/assets/a887bfb6-bed0-4c70-bfce-de302fc13d54)
+
 ## Overview
 The **SSW Automation Framework** is a powerful and flexible automation testing framework built using Selenium and TestNG. It is designed to simplify and optimize test automation processes, supporting multiple browsers, advanced reporting, and configuration management.
 
